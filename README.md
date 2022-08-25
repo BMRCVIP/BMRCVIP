@@ -2,7 +2,7 @@
 <h3 align="center">I'm still learning in this world of programming</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bmrcvip" alt="bmrcvip" /></a> </p>
-<p>[![trophy](https://github-profile-trophy.vercel.app/bmrcvip=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)</P>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bmrcvip=ryo-ma&theme=onedark" alt="bmrcvip" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bmrc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bmrc" height="30" width="40" /></a>
